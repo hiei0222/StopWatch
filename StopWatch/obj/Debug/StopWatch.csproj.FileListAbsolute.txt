@@ -1,0 +1,13 @@
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\MainWindow.baml
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\MainWindow.g.cs
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\App.g.cs
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch_MarkupCompile.cache
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.g.resources
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.Cache
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+c:\users\yiming\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
